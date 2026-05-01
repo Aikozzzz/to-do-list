@@ -6,10 +6,10 @@ Minimal to-do list app built with React and Vite.
 
 Install dependencies and start the dev server:
 
-```bash
+bash
 npm install
 npm run dev
-```
+
 
 Open the printed local URL in your browser.
 
